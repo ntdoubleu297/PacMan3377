@@ -4,5 +4,6 @@ In this project => repository, I use skills learned in JavaScript in order to mo
 
 How to Run: Download the index.html file herein to your CPU harddrive then drag/drop from your finder to a blank page web browser.  
 
-Roadmap of future improvements: This should be a few sentences describing what you plan to work on next in this repository. 
+Roadmap of future improvements: I am going to work on gaining the Pacmans ability to move up and down (as well as side to side) in progression. TY  
+
 License information: This should include information about the MIT license. 
